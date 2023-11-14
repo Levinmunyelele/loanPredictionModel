@@ -1,2 +1,2 @@
 # loanPredictionModel
-A mL model to predict whether a person is eligible for loan approvals.
+An Machine Learning model to predict whether a person is eligible for loan approvals.
